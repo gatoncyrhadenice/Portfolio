@@ -9,6 +9,7 @@
   scroll-behavior: smooth;
   scroll-padding-top: 2rem;
   font-family: "Poppins", sans-serif;
+  
 }
 :root {
   --main-color: #033a80;
@@ -44,7 +45,7 @@ body {
  
 .heading span {
   font-size: var(--p-font);
-  color: rgb(2, 166, 70);
+  color: rgb(250, 207, 78);
 }
 header {
   position: fixed;
@@ -233,16 +234,16 @@ span {
   border-radius: 0.5rem;
 }
 .html-bar {
-  width: 94%;
+  width: 86%;
 }
 .css-bar {
-  width: 84%;
+  width: 89%;
 }
 .js-bar {
-  width: 74%;
+  width: 84%;
 }
 .react-bar {
-  width: 80%;
+  width: 89%;
 }
 .services-content {
   display: grid;
@@ -280,7 +281,7 @@ span {
   color: var(--main-color);
 }
 .services-box:hover .bx{
-  color: #22cf91;
+  color: #767476;
 }
 .services-box a {
   color: var(--main-color);
@@ -342,8 +343,8 @@ form textarea {
 .contact-button {
   width: 160px;
   cursor: pointer;
-  background: #2768d9;
-  color: #fff;
+  background: #73bfe9;
+  color: rgb(253, 255, 252);
   justify-content: center;
   text-transform: uppercase;
   letter-spacing: 1px;
